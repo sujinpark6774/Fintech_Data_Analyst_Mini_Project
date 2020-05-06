@@ -7,4 +7,4 @@
  - 주제 : 광고 시청시간 및 노출빈도에 따른 소비자 행태 조사
  - 사용 데이터 : 2019년 소비자행태조사 원시데이터
  > - 데이터 출처 : 소비자행태조사(MCR) 데이터 서비스
- > (https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssInfoPage.do?orderState=regDt&pageSize=10&pageIndex=1&searchItem=all&searchText=&datasetId=DS_MST_0000000422#popup_window_reason)
+ >> (https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssInfoPage.do?orderState=regDt&pageSize=10&pageIndex=1&searchItem=all&searchText=&datasetId=DS_MST_0000000422#popup_window_reason)
